@@ -1,3 +1,7 @@
+{
+"title": "Cafe Surabaya ",
+  "description": "20 Data Cafe Di Surabaya",
+  "json":
 [
     {
         "ID": "1",
@@ -5,8 +9,7 @@
         "Alamat": "Jl. Arif Rahman Hakim No. 97 Surabaya",
         "Jam_Buka": "16.00 - 22.00 WIB",
         "Menu_Favorit": "Seblak Seafood",
-        "Harga": "10000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/1.jpg"
+        "Harga": "10000"
     },
     {
         "ID": "2",
@@ -14,8 +17,7 @@
         "Alamat": "Jl. Bung Tomo No. 6 Surabaya",
         "Jam_Buka": "04.00 - 12.00 WIB",
         "Menu_Favorit": "Mie Goreng Jawa",
-        "Harga": "15000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/2.jpg"
+        "Harga": "15000"
     },
     {
         "ID": "3",
@@ -23,8 +25,8 @@
         "Alamat": "Jl. Kelampis Semolo Timur No. 47A Surabaya",
         "Jam_Buka": "18.00 - 22.00 WIB",
         "Menu_Favorit": "Surabi Saus Durian Toping Marshmallow",
-        "Harga": "10000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/3.jpg"
+        "Harga": "10000"
+        
     },
     {
         "ID": "4",
@@ -32,8 +34,7 @@
         "Alamat": "Jl. Ngagel Jaya Utara No. 24, Kertajaya Indah Tengah H 252 Surabaya",
         "Jam_Buka": "10.00 - 22.00 WIB",
         "Menu_Favorit": "Black Burger",
-        "Harga": "15000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/4.jpg"
+        "Harga": "15000"
     },
     {
         "ID": "5",
@@ -41,8 +42,7 @@
         "Alamat": "Jl. Pandaan No. 8 Surabaya",
         "Jam_Buka": "11.00 - 23.00 WIB",
         "Menu_Favorit": "Crispy Dori",
-        "Harga": "16000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/5.jpg"
+        "Harga": "16000"
     },
     {
         "ID": "6",
@@ -50,8 +50,8 @@
         "Alamat": "Jl. Manyar Tirtoyoso Selatan 1\/77 Surabaya",
         "Jam_Buka": "Senin - Jum'at (10.00 - 19.00 WIB) Sabtu (10.00 - ",
         "Menu_Favorit": "Spaghetti Dragon's Breath",
-        "Harga": "25000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/6.jpg"
+        "Harga": "25000"
+        
     },
     {
         "ID": "7",
@@ -59,8 +59,8 @@
         "Alamat": "Jl. Raya Darmo Permai 1 No. 38, Surabaya",
         "Jam_Buka": "Senin - Kamis & Minggu (08.00 - 22.00 WIB) Jum'at - Sabtu (08.00 - 23.00 WIB)",
         "Menu_Favorit": "Salted Egg Yolk Croisssant",
-        "Harga": "28000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/7.jpg"
+        "Harga": "28000"
+        
     },
     {
         "ID": "8",
@@ -68,8 +68,7 @@
         "Alamat": "Jl. Gubeng Kertajaya 7C No. 56 Surabaya",
         "Jam_Buka": "11.00 - 23.00 WIB",
         "Menu_Favorit": "Fluffy Marshmallow",
-        "Harga": "21000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/8.jpg"
+        "Harga": "21000"
     },
     {
         "ID": "9",
@@ -77,8 +76,8 @@
         "Alamat": "Jl. Dharmawangsa No. 3 Gubeng, Surabaya",
         "Jam_Buka": "11.00 - 23.00 WIB",
         "Menu_Favorit": "Craving Bagetta\/Meatyvora",
-        "Harga": "28000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/9.jpg"
+        "Harga": "28000"
+        
     },
     {
         "ID": "10",
@@ -86,8 +85,8 @@
         "Alamat": "Jl. Wijaya Kusuma No. 17 Surabaya",
         "Jam_Buka": "07.00 - 02.00 WIB",
         "Menu_Favorit": "Nasi Sop Buntut",
-        "Harga": "35000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/10.jpg"
+        "Harga": "35000"
+        
     },
     {
         "ID": "11",
@@ -95,8 +94,7 @@
         "Alamat": "Jl. Nginden Semolo No. 38, Sukolilo Surabaya",
         "Jam_Buka": "11.00 - 22.00 WIB",
         "Menu_Favorit": "Bulgogi Pizza",
-        "Harga": "23000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/11.jpg"
+        "Harga": "23000"
     },
     {
         "ID": "12",
@@ -104,8 +102,7 @@
         "Alamat": "Jl. Taman Mayangkara No. 10 Surabaya",
         "Jam_Buka": "09.00 - 23.00 WIB",
         "Menu_Favorit": "Twilight Saga",
-        "Harga": "35000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/12.jpg"
+        "Harga": "3500"
     },
     {
         "ID": "13",
@@ -113,8 +110,7 @@
         "Alamat": "Jl. Raya Prapen 22 Surabaya Surabaya",
         "Jam_Buka": "17.00 - 23.00 WIB",
         "Menu_Favorit": "Carbonara",
-        "Harga": "22000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/13.jpg"
+        "Harga": "22000"
     },
     {
         "ID": "14",
@@ -122,8 +118,7 @@
         "Alamat": "Jl. Ngagel Jaya Barat No. 63 Surabaya",
         "Jam_Buka": "12.00 - 21.00 WIB",
         "Menu_Favorit": "Cream Blueberry Soda Float",
-        "Harga": "10000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/14.jpg"
+        "Harga": "10000"
     },
     {
         "ID": "15",
@@ -131,8 +126,7 @@
         "Alamat": "Jl. Barata Jaya XX blok U3 Surabaya",
         "Jam_Buka": "11.00 - 22.00 WIB",
         "Menu_Favorit": "Ice Cream Soup",
-        "Harga": "18000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/15.jpg"
+        "Harga": "18000"
     },
     {
         "ID": "16",
@@ -140,8 +134,7 @@
         "Alamat": "Jl. Klampis Jaya No.25 C, Klampis Ngasem, Sukolilo Surabaya",
         "Jam_Buka": "11.00 - 15.00 WIB",
         "Menu_Favorit": "Roti Bakar Mix & Salad Double Mix",
-        "Harga": "20000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/16.jpg"
+        "Harga": "20000"
     },
     {
         "ID": "17",
@@ -149,8 +142,7 @@
         "Alamat": "Jl. Walikota Mustajab 67-69 Surabaya",
         "Jam_Buka": "Senin - Jumat 12:30 - 21.30 WIB , Sabtu 12:30 - 21.30 WIB , Minggu 12:30 - 21.30 WIB",
         "Menu_Favorit": "Classic Breakfast Sandwich & Veggie Breakfast Sand",
-        "Harga": "30000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/17.jpg"
+        "Harga": "30000"
     },
     {
         "ID": "18",
@@ -158,8 +150,7 @@
         "Alamat": null,
         "Jam_Buka": "10.00 - 21.00 WIB",
         "Menu_Favorit": "Chicken Katsu Rice",
-        "Harga": "22000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/18.jpg"
+        "Harga": "22000"
     },
     {
         "ID": "19",
@@ -167,8 +158,7 @@
         "Alamat": "Jl. Ngagel Jaya 87-89, Surabaya",
         "Jam_Buka": "09:00 - 23:00 WIB",
         "Menu_Favorit": "Aglio Olio Spaghetti",
-        "Harga": "38000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/19.jpg"
+        "Harga": "38000"
     },
     {
         "ID": "20",
@@ -176,7 +166,7 @@
         "Alamat": "Jl. Sumatra No. 40, Gubeng,",
         "Jam_Buka": "07.00 - 12.00 WIB",
         "Menu_Favorit": "Almond Cheese Cake ",
-        "Harga": "35000",
-        "Foto_Cafe": "https://github.com/Rafi-Afmar/cafe-surabaya/blob/master/20.jpg"
+        "Harga": "35000"
     }
 ]
+}
